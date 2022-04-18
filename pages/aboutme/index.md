@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Posts
+title: About Me
 date: 2022-01-01
 ---
 
-# Posts
+# About Me
