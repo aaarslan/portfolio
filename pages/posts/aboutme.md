@@ -3,7 +3,7 @@ title: About Me
 date: 2021/12/01
 description: Learn more about me.
 tag: About me
-author: You
+author: Abdallah Arslan
 ---
 
 # About Me 
